@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GirlMantraTask1/static/css/main.5ee38b98.css",
-    "main.js": "/GirlMantraTask1/static/js/main.b8b3ecfe.js",
-    "static/media/video5.png": "/GirlMantraTask1/static/media/video5.28983fda787f7aa3917a.png",
-    "static/media/video3.png": "/GirlMantraTask1/static/media/video3.37c604bc3f2ba0b51468.png",
-    "static/media/sidebar-top.png": "/GirlMantraTask1/static/media/sidebar-top.e828fd26e8f78689f21d.png",
-    "static/media/video.png": "/GirlMantraTask1/static/media/video.da6c70f01ff7e50dfa36.png",
-    "static/media/herobackgrnd.jfif": "/GirlMantraTask1/static/media/herobackgrnd.f5495b26931586821ae7.jfif",
-    "static/media/video2.png": "/GirlMantraTask1/static/media/video2.758b04757067a80ef257.png",
-    "static/media/video4.png": "/GirlMantraTask1/static/media/video4.1561ecb8fc698a518987.png",
-    "static/media/button.png": "/GirlMantraTask1/static/media/button.beaf0f2927e56845ab9e.png",
-    "index.html": "/GirlMantraTask1/index.html",
-    "main.5ee38b98.css.map": "/GirlMantraTask1/static/css/main.5ee38b98.css.map",
-    "main.b8b3ecfe.js.map": "/GirlMantraTask1/static/js/main.b8b3ecfe.js.map"
+    "main.css": "/GirlMatraTask1/static/css/main.10265530.css",
+    "main.js": "/GirlMatraTask1/static/js/main.fca25de7.js",
+    "static/media/video5.png": "/GirlMatraTask1/static/media/video5.28983fda787f7aa3917a.png",
+    "static/media/video3.png": "/GirlMatraTask1/static/media/video3.37c604bc3f2ba0b51468.png",
+    "static/media/sidebar-top.png": "/GirlMatraTask1/static/media/sidebar-top.e828fd26e8f78689f21d.png",
+    "static/media/video.png": "/GirlMatraTask1/static/media/video.da6c70f01ff7e50dfa36.png",
+    "static/media/herobackgrnd.jfif": "/GirlMatraTask1/static/media/herobackgrnd.f5495b26931586821ae7.jfif",
+    "static/media/video2.png": "/GirlMatraTask1/static/media/video2.758b04757067a80ef257.png",
+    "static/media/video4.png": "/GirlMatraTask1/static/media/video4.1561ecb8fc698a518987.png",
+    "static/media/button.png": "/GirlMatraTask1/static/media/button.beaf0f2927e56845ab9e.png",
+    "index.html": "/GirlMatraTask1/index.html",
+    "main.10265530.css.map": "/GirlMatraTask1/static/css/main.10265530.css.map",
+    "main.fca25de7.js.map": "/GirlMatraTask1/static/js/main.fca25de7.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ee38b98.css",
-    "static/js/main.b8b3ecfe.js"
+    "static/css/main.10265530.css",
+    "static/js/main.fca25de7.js"
   ]
 }
