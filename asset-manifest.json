@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GirlMantraTask1/static/css/main.60511214.css",
+    "main.css": "/GirlMantraTask1/static/css/main.2db6f6cf.css",
     "main.js": "/GirlMantraTask1/static/js/main.400699e0.js",
     "static/media/video5.png": "/GirlMantraTask1/static/media/video5.28983fda787f7aa3917a.png",
     "static/media/video3.png": "/GirlMantraTask1/static/media/video3.37c604bc3f2ba0b51468.png",
@@ -11,11 +11,11 @@
     "static/media/video4.png": "/GirlMantraTask1/static/media/video4.1561ecb8fc698a518987.png",
     "static/media/button.png": "/GirlMantraTask1/static/media/button.beaf0f2927e56845ab9e.png",
     "index.html": "/GirlMantraTask1/index.html",
-    "main.60511214.css.map": "/GirlMantraTask1/static/css/main.60511214.css.map",
+    "main.2db6f6cf.css.map": "/GirlMantraTask1/static/css/main.2db6f6cf.css.map",
     "main.400699e0.js.map": "/GirlMantraTask1/static/js/main.400699e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.60511214.css",
+    "static/css/main.2db6f6cf.css",
     "static/js/main.400699e0.js"
   ]
 }
