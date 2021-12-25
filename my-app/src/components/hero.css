@@ -1,0 +1,57 @@
+.hero {
+  width: 1240px;
+  height: 580px;
+  top: 0px;
+  background: linear-gradient(
+      359.3deg,
+      rgba(0, 0, 0, 0.776) 12.35%,
+      rgba(0, 0, 0, 0.12) 99.37%
+    ),
+    url("../images/herobackgrnd.jfif");
+  left: 281px;
+  top: 0px;
+}
+.heading {
+  position: absolute;
+  width: 520px;
+  height: 42px;
+  left: 570px;
+  top: 200px;
+}
+.text {
+  position: absolute;
+  width: 480px;
+  left: 560px;
+  top: 285px;
+}
+.herobtn {
+  position: absolute;
+  width: 100px;
+  top: 360px;
+  left: 570px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: auto;
+  background: #020005;
+  border: 0.75px solid #ffd426;
+  box-sizing: border-box;
+  border-radius: 200px;
+  color: #ffffff;
+}
+.button {
+  position: absolute;
+  bottom: -10%;
+  left: 35%;
+  height: 40px;
+  width: 170px;
+}
+.weektwo {
+  left: 47%;
+}
+.weekthree {
+  left: 59%;
+}
+.weekfour {
+  left: 71%;
+}

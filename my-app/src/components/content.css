@@ -1,0 +1,96 @@
+.content {
+  display: flex;
+  margin-left: 350px;
+  flex-direction: column;
+}
+.weeklybtns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: stretch;
+}
+.btn {
+  margin: 30px 0px;
+  height: 40px;
+  width: 170px;
+  justify-content: center;
+  align-content: stretch;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+.btns {
+  background-color: transparent;
+  border: none;
+}
+.btns:hover {
+  background: transparent;
+}
+
+.button {
+  display: flex;
+}
+.heading-line {
+  width: 125px;
+  height: 3.5px;
+  border-radius: 60px;
+  background: linear-gradient(135deg, #ff006b 0%, #a500f3 90%);
+  position: absolute;
+  left: 1.2%;
+  top: 18%;
+  border: none;
+}
+
+.video {
+  display: flex;
+  height: 150px;
+  width: 250px;
+  margin: 50px auto;
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 250px;
+  width: 200px;
+  margin: 50px 40px;
+}
+.watchbtn {
+  margin: 105px auto;
+  color: white;
+  background-color: #464758;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  height: 45px;
+  width: 140px;
+  border: 2px solid #464758;
+  box-sizing: border-box;
+  border-radius: 200px;
+  order: 0;
+  flex-grow: 0;
+}
+.resume {
+  border-color: darkgoldenrod;
+}
+.avatar-desc {
+  position: relative;
+  right: 300px;
+  bottom: 20px;
+}
+.avatar {
+  height: 15px;
+  width: 15px;
+}
+.desc {
+  position: relative;
+  left: 375px;
+  bottom: 40px;
+  width: 250px;
+}
